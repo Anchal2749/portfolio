@@ -614,7 +614,7 @@ nav .fa-solid{
    border-radius: 6px;
    
    background: #ed0303;
-   animation: progress 0.4s ease-in-out forwards;
+   animation: progress 0.8s ease-in-out forwards;
    opacity: 0;
 
 }
@@ -673,6 +673,12 @@ nav .fa-solid{
 }
 .skill-per.typescript{
     width: 60%;
+}
+.skill-per.node{
+    width: 70%;
+}
+.skill-per.mongo{
+    width: 70%;
 }
 
 
